@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/ch12_ex1_sqlGateway_sol">
+    <Resource name="jdbc/d15h2pv37puhtc" auth="Container" 
+        driverClassName="org.postgresql.Driver" 
+        url="jdbc:postgresql://ec2-44-210-228-110.compute-1.amazonaws.com:5432/d15h2pv37puhtc" 
+        username="minpzmhtesgbqu" password="dc8f60be953023ef2d21150b0b76ad126add6ebe62195440288a51cc92690e1c" 
+        maxActive="100" maxIdle="30" maxWait="10000" 
+        logAbandoned="true" removeAbandoned="true" 
+        removeAbandonedTimeout="60" type="javax.sql.DataSource" />  
+</Context>
